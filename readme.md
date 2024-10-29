@@ -1,4 +1,5 @@
 # Menu scrapper
+[![Pylint](https://github.com/VincentItaliano/menu_agricas/actions/workflows/pylint.yml/badge.svg?event=push)](https://github.com/VincentItaliano/menu_agricas/actions/workflows/pylint.yml)
 
 ## Installation
 This repository has the following dependencies:
